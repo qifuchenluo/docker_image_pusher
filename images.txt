@@ -1,1 +1,1 @@
-tugraph/tugraph-db-centos7:latest
+tugraph/tugraph-runtime-centos7:latest
