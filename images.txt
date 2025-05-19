@@ -1,1 +1,1 @@
-tugraph/tugraph-runtime-centos7:latest
+moby/buildkit:buildx-stable-1
